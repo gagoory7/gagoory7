@@ -1,16 +1,17 @@
-## Hi there 👋
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=gagoory7&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/gagoory7"
+  width="600"
+  height="400"
+/>
+</a>
 
-<!--
-**gagoory7/gagoory7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 20px;">
+    <a href="https://gagoory7.github.io" target="_blank">
+        <button style="background-color: #dc143c; color: white; padding: 12px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;">
+            TIL
+        </button>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=gagoory7&color=dc143c" alt="Profile Views Counter" style="height: 40px;">
+</div>
