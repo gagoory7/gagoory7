@@ -6,11 +6,9 @@
 />
 </a>
 
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 20px;">
-    <a href="https://gagoory7.github.io" target="_blank" 
-    style="display: inline-block; background-color: #dc143c; color: white; padding: 12px 30px; font-size: 16px; border: none; border-radius: 5px; text-align: center; cursor: pointer; text-decoration: none;">
-    TIL
+    <a href="https://gagoory7.github.io" target="_blank">
+        <img src="https://img.shields.io/badge/TIL-dc143c?style=for-the-badge&logoColor=white" alt="TIL Badge" style="height: 40px; vertical-align: middle;">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=gagoory7&color=dc143c" alt="Profile Views Counter" style="height: 40px;">
+    <img src="https://komarev.com/ghpvc/?username=gagoory7&color=dc143c" alt="Profile Views Counter" style="height: 40px; vertical-align: middle;">
 </div>
