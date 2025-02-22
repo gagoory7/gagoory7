@@ -8,10 +8,9 @@
 
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; margin-top: 20px;">
-    <a href="https://gagoory7.github.io" target="_blank">
-        <button style="background-color: #dc143c; color: white; padding: 12px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;">
-            TIL
-        </button>
+    <a href="https://gagoory7.github.io" target="_blank" 
+    style="display: inline-block; background-color: #dc143c; color: white; padding: 12px 30px; font-size: 16px; border: none; border-radius: 5px; text-align: center; cursor: pointer; text-decoration: none;">
+    TIL
     </a>
     <img src="https://komarev.com/ghpvc/?username=gagoory7&color=dc143c" alt="Profile Views Counter" style="height: 40px;">
 </div>
